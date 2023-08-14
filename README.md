@@ -14,4 +14,4 @@ It is possible to add and store static files (images) to recipes.
 ![Alt Text](https://github.com/luiscarmignotto/recipe-app-api/blob/main/deployment_overview.jpg)
 
 ## Links
-[Udemy Course - Build a Backend REST API with Python & Django - Advanced]: https://www.udemy.com/course/django-python-advanced/
+[Udemy Course - Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/)
