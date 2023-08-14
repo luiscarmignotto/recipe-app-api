@@ -30,11 +30,11 @@ services:
   proxy:
     build:
       context: ./proxy
-    restart:  always
+    restart: always
     depends_on:
       - app
     ports:
-      - 8000
+      - 8000:8000
     volumes:
       - static-data:/vol/static
 
